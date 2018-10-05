@@ -1,0 +1,51 @@
+NI 9231 - 8-channel S&V
+USD-186.61
+
+
+
+NI 6571 - 32-channel, 1-slot
+USD 1860.73	
+
+
+VRTS cable
+USD 455
+
+
+NI 9803 solid state drive
+
+USRP-2974 - i7
+USD 4228.08
+
+
+
+PXIe-1084 chassis (hybrid, lower-bandwidth)
+1092
+
+
+cRIO-9056, 470.77
+cRIO-9057, 493.53
+
+
+PXIe-6346, 6349 (high-channel AI)
+
+ELVIS III Quanser
+
+NI 9351 SIL AI  784446-01  239.89 (yes stock)
+
+PXIe-7861/2  Multi-function RIO Kintex 7
+
+7861 786671-01 616.85 (yes stock)
+7862 786672-01 731,42 (yes stock)
+
+Digilent board $201
+
+Some accessories
+
+IVN-8561  Automotive Ethernet
+786169-01  130.94 (yes stock)
+
+
+
+
+
+
